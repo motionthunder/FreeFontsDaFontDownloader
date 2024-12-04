@@ -9,7 +9,7 @@ This script is for educational purposes only and to demonstrate how to use the A
 3. All rights to fonts belong to their authors and DaFont
 4. Before using any font, please read its license
 
-##⚠️ WARNING:
+⚠️ WARNING:
 
 This code is provided for demonstration purposes only. The author is not responsible for misuse of this code.
 
